@@ -115,3 +115,9 @@ body {
     bottom: 50px;
     opacity: 1;
 }
+
+@media (max-width: 440px) {
+    body {
+      padding: 20px;
+    }
+}
